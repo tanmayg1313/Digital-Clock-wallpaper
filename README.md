@@ -34,11 +34,11 @@ To add your screenshot to the README file:
 2. Save your screenshot in the `images` folder (e.g., `screenshot.png`)
 3. Add the following markdown code to your README:
 
-```markdown
+
 ## Screenshot
 
 ![Digital Clock Screenshot](images/screenshot.png)
-```
+
 
 
 ## License
