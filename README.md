@@ -40,7 +40,6 @@ To add your screenshot to the README file:
 ![Digital Clock Screenshot](images/screenshot.png)
 ```
 
-Replace `screenshot.png` with your actual image filename.
 
 ## License
 
